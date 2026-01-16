@@ -3,265 +3,82 @@
   {
     "category": "Maintenance & Troubleshooting Manual",
     "documents": [
-      {
-        "title": "DC Track Circuit Maintenance",
-        "url": "https://drive.google.com/file/d/1CZdhhMfsSWm09g-_q6g4nfaX81pS-XN0/view?usp=drive_link"
-      },
-      {
-        "title": "Point Maintenance",
-        "url": "https://drive.google.com/file/d/1fDGm4jr7mbPr6bUUJZSOSiPy2NwJVEQm/view?usp=drive_link"
-      },
-      {
-        "title": "TWS Point Maintenance",
-        "url": "https://drive.google.com/file/d/1LIlQZ0qUCweqLdeLqevVmAHjkuN5krBQ/view?usp=drive_link"
-      },
-      {
-        "title": "IPS Maintenance",
-        "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"
-      },
-      {
-        "title": "CEL SSDAC / BPAC Maintenance",
-        "url": "https://drive.google.com/file/d/1YCfZYZNBoKkWo4UiFvD6MHHmF-rpkrGl/view?usp=drive_link"
-      },
-      {
-        "title": "Siemens MSDAC AzS 350-U Maintenance",
-        "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"
-      },
-      {
-        "title": "Failure Analysis of Typical Failures in Signalling",
-        "url": "https://drive.google.com/file/d/1XaQFAXI2gELiXzsFJs1apovcndcG36B-/view?usp=sharing"
-      }
+      {"title": "DC Track Circuit Maintenance", "url": "https://drive.google.com/file/d/1CZdhhMfsSWm09g-_q6g4nfaX81pS-XN0/view?usp=drive_link"},
+      {"title": "Point Maintenance", "url": "https://drive.google.com/file/d/1fDGm4jr7mbPr6bUUJZSOSiPy2NwJVEQm/view?usp=drive_link"},
+      {"title": "TWS Point Maintenance", "url": "https://drive.google.com/file/d/1LIlQZ0qUCweqLdeLqevVmAHjkuN5krBQ/view?usp=drive_link"},
+      {"title": "IPS Maintenance", "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"},
+      {"title": "CEL SSDAC / BPAC Maintenance", "url": "https://drive.google.com/file/d/1YCfZYZNBoKkWo4UiFvD6MHHmF-rpkrGl/view?usp=drive_link"},
+      {"title": "Siemens MSDAC AzS 350-U Maintenance", "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"},
+      {"title": "Failure Analysis of Typical Failures in Signalling", "url": "https://drive.google.com/file/d/1XaQFAXI2gELiXzsFJs1apovcndcG36B-/view?usp=sharing"}
     ]
   },
   {
     "category": "Friday Online Training Series BSL Div",
     "documents": [
-      {
-        "title": "Electronic Interlocking Working Part-1 (Fault Finding Techniques)",
-        "url": "https://docs.google.com/presentation/d/1obltOybHnyNP2CFC23SicgnAosoFpiDM/edit?usp=sharing"
-      },
-      {
-        "title": "DC Track Circuit Study, Maintenance & Failure Analysis",
-        "url": "https://drive.google.com/file/d/1YV7tQOpMBICbdYgVnGQ0dM6eeuMiW9LQ/view?usp=sharing"
-      },
-      {
-        "title": "CEL SSDAC / HASSDAC Study",
-        "url": "https://docs.google.com/presentation/d/1xcZo-HguNqSqwP2G4tMKBvdCKvSj8O0o/edit?usp=drive_link"
-      },
-      {
-        "title": "Introduction to Kavach – Working & Work Execution",
-        "url": "https://docs.google.com/presentation/d/12imXaJwMX9WL96lriddVtQcJR4g3SgLl/edit?usp=sharing"
-      },
-      {
-        "title": "IBH with MSDAC – Circuit Explanation & Failure Study",
-        "url": "https://docs.google.com/presentation/d/1sZQzfOsKuk0hJkGdGt21JIx3dFVRvJpT/edit?usp=drive_link"
-      },
-      {
-        "title": "Electronic Interlocking Part-II (I/O Cards & PM)",
-        "url": "https://drive.google.com/file/d/1T8fSYb4dT8xaKSCPVeI41k-uuf_ycFL1/view?usp=drive_link"
-      },
-      {
-        "title": "Study of Integrated Power Supply, connection wiring diagram, operation, failure detection and case study. Working & Importance of PFC.",
-        "url": ""
-      },
-      {
-        "title": "Cable laying practice, Policy of undertaking digging work in cable prone areas & detail procedure. Preventative maintenance.",
-        "url": ""
-      },
-      {
-        "title": "Study of Automatic block signalling (Powersupply requirement and failure case studies)",
-        "url": ""
-      },
-      {
-        "title": "Study of Siemens MSDAC , Maintenance, Fault finding and failure case study. Failure analysis",
-        "url": ""
-      },
-      {
-        "title": "Study of Point operation internal circuits with function of realys. Precautions to be taken and failure case study.",
-        "url": ""
-      },
-      {
-        "title": "ELD: Settings, Testing & Finding cable earth faults",
-        "url": ""
-      },
-      {
-        "title": "Rolling blocks, SMMS & BDMS Application",
-        "url": ""
-      },
-      {
-        "title": "Study of TWS Point, Maintenance, failure case study & failure analysis",
-        "url": ""
-      },
-      {
-        "title": "Study of Electrical Lifting Barrier with Sliding boom. Maintenance and failure case study.",
-        "url": ""
-      },
-      {
-        "title": "Study of Double line block instrument, line circuit working, maintenance.",
-        "url": ""
-      },
-      {
-        "title": "Study of Signal LED aspects, Maintenance & failure case study. Analysis of CMS Abnormalities",
-        "url": ""
-      },
-      {
-        "title": "Study of Efftronics data logger, working, Important Analog/Digital inputs, various fault logics & Daily exceptions reports.",
-        "url": ""
-      },
-      {
-        "title": "Earthing arrangements of Signalling Installations as per TAN (Technical Advisory Note)",
-        "url": ""
-      },
-      {
-        "title": "Study of Stand by fuse system, working wiring diagram and ault finding",
-        "url": ""
-      },
-      {
-        "title": "Study of fire alarm system, working and wiring diagram",
-        "url": ""
-      },
-      {
-        "title": "Safety in train Operation and Weak areas",
-        "url": ""
-      },
-      {
-        "title": "Signalling in RE. SODs Joint Inspections",
-        "url": ""
-      }
+      {"title": "Electronic Interlocking Working Part-1 (Fault Finding Techniques)", "url": "https://docs.google.com/presentation/d/1obltOybHnyNP2CFC23SicgnAosoFpiDM/edit?usp=sharing"},
+      {"title": "DC Track Circuit Study, Maintenance & Failure Analysis", "url": "https://drive.google.com/file/d/1YV7tQOpMBICbdYgVnGQ0dM6eeuMiW9LQ/view?usp=sharing"},
+      {"title": "CEL SSDAC / HASSDAC Study", "url": "https://docs.google.com/presentation/d/1xcZo-HguNqSqwP2G4tMKBvdCKvSj8O0o/edit?usp=drive_link"},
+      {"title": "Introduction to Kavach – Working & Work Execution", "url": "https://docs.google.com/presentation/d/12imXaJwMX9WL96lriddVtQcJR4g3SgLl/edit?usp=sharing"},
+      {"title": "IBH with MSDAC – Circuit Explanation & Failure Study", "url": "https://docs.google.com/presentation/d/1sZQzfOsKuk0hJkGdGt21JIx3dFVRvJpT/edit?usp=drive_link"},
+      {"title": "Electronic Interlocking Part-II (I/O Cards & PM)", "url": "https://drive.google.com/file/d/1T8fSYb4dT8xaKSCPVeI41k-uuf_ycFL1/view?usp=drive_link"},
+      {"title": "Study of Integrated Power Supply, connection wiring diagram, operation, failure detection and case study. Working & Importance of PFC.", "url": ""},
+      {"title": "Cable laying practice, Policy of undertaking digging work in cable prone areas & detail procedure. Preventative maintenance.", "url": ""},
+      {"title": "Study of Automatic block signalling (Powersupply requirement and failure case studies)", "url": ""},
+      {"title": "Study of Siemens MSDAC , Maintenance, Fault finding and failure case study. Failure analysis", "url": ""},
+      {"title": "Study of Point operation internal circuits with function of realys. Precautions to be taken and failure case study.", "url": ""},
+      {"title": "ELD: Settings, Testing & Finding cable earth faults", "url": ""},
+      {"title": "Rolling blocks, SMMS & BDMS Application", "url": ""},
+      {"title": "Study of TWS Point, Maintenance, failure case study & failure analysis", "url": ""},
+      {"title": "Study of Electrical Lifting Barrier with Sliding boom. Maintenance and failure case study.", "url": ""},
+      {"title": "Study of Double line block instrument, line circuit working, maintenance.", "url": ""},
+      {"title": "Study of Signal LED aspects, Maintenance & failure case study. Analysis of CMS Abnormalities", "url": ""},
+      {"title": "Study of Efftronics data logger, working, Important Analog/Digital inputs, various fault logics & Daily exceptions reports.", "url": ""},
+      {"title": "Earthing arrangements of Signalling Installations as per TAN (Technical Advisory Note)", "url": ""},
+      {"title": "Study of Stand by fuse system, working wiring diagram and ault finding", "url": ""},
+      {"title": "Study of fire alarm system, working and wiring diagram", "url": ""},
+      {"title": "Safety in train Operation and Weak areas", "url": ""},
+      {"title": "Signalling in RE. SODs Joint Inspections", "url": ""}
     ]
   },
   {
     "category": "Latest IRSEM",
     "documents": [
-      {
-        "title": "I Organisation of the Signal & Telecommunication Department",
-        "url": "https://drive.google.com/file/d/1xq-M7O3Aa6hJoYLpjBvHa1B9dB7FxB3l/view?usp=drive_link"
-      },
-      {
-        "title": "II Duties of Signal & Telecommunication Engineers",
-        "url": "https://drive.google.com/file/d/1YCrT9GCd9QkYJk8ranSMmNpEgqkJ0tT5/view?usp=drive_link"
-      },
-      {
-        "title": "III Duties of Signal Supervisors & Technical Staff",
-        "url": "https://drive.google.com/file/d/1orScw3LTxgoLzqHoAniFxuE8znj0KFui/view?usp=drive_link"
-      },
-      {
-        "title": "IV Budget, Estimates, Expenditure, Budget Control and Completion Reports",
-        "url": "https://drive.google.com/file/d/1iE-0XzxDHJP3g6szjMYvkMhApursw8jS/view?usp=drive_link"
-      },
-      {
-        "title": "V Planning, Estimating & Survey",
-        "url": "https://drive.google.com/file/d/1VcpeeGLIg8M2dNOOD6try73x1_yHtHLb/view?usp=drive_link"
-      },
-      {
-        "title": "VI Signalling Stores and Account",
-        "url": "https://drive.google.com/file/d/1SqY49elhwo4GD0gAeswTvxcUcfAVAGZR/view?usp=drive_link"
-      },
-      {
-        "title": "VII Essential of Signalling",
-        "url": "https://drive.google.com/file/d/1W-AseEs9vWeIPHlrmeB-QvcWuNyO1VOv/view?usp=drive_link"
-      },
-      {
-        "title": "VIII Drawings & Specifications",
-        "url": "https://drive.google.com/file/d/16755r9Qm-Xs1xYQUOCzKwE7T96w7uhi6/view?usp=drive_link"
-      },
-      {
-        "title": "IX Procedure for Commissioning of Signaling Installations",
-        "url": "https://drive.google.com/file/d/14BHpWsuiQeQgrFQfWJ6FDlixIvUPhRZO/view?usp=drive_link"
-      },
-      {
-        "title": "X Contracts for Works",
-        "url": "https://drive.google.com/file/d/1ZsX4XtodboVtXy2R0S3GVC_3q83MNwNu/view?usp=drive_link"
-      },
-      {
-        "title": "XI Dataloggers & Predictive Maintenance Systems",
-        "url": "https://drive.google.com/file/d/13HyZfCv99wHqRi7ke48cesroHgqRpAiz/view?usp=drive_link"
-      },
-      {
-        "title": "XII Installation, Testing & Maintenance of Mechanical Signalling Equipment",
-        "url": "https://drive.google.com/file/d/1iNAvmA3KWEaPZ2u4bn4nYgmd-kvYO_Q3/view?usp=drive_link"
-      },
-      {
-        "title": "XIII ATP, ETCS, TPWS, IRATP (TCAS) & TMS",
-        "url": "https://drive.google.com/file/d/1HoLAuSKGE3RGeMf8-9sDvXEGxfCiAvL2/view?usp=drive_link"
-      },
-      {
-        "title": "XIV LC Gates",
-        "url": "https://drive.google.com/file/d/1O9oZTIYBbJaxf2ETFc8xnRX2TYu-FVee/view?usp=drive_link"
-      },
-      {
-        "title": "XV Cables",
-        "url": "https://drive.google.com/file/d/1ZXmjViwgDWZ1V-H9UJNsl7ozEI-FAvEZ/view?usp=drive_link"
-      },
-      {
-        "title": "XVI Power Supply Systems for Signalling Installation",
-        "url": "https://drive.google.com/file/d/1TI237KuKMo6Xg7cmKM89dESb7BcU2a53/view?usp=drive_link"
-      },
-      {
-        "title": "XVII Train Detection – Track Circuits & Axle Counters",
-        "url": "https://drive.google.com/file/d/1m6DDm6oRmfboT_FQQPvcEVcGY4MI9ZPN/view?usp=drive_link"
-      },
-      {
-        "title": "XVIII Block Instruments, BPAC & IBS Working",
-        "url": "https://drive.google.com/file/d/1UL4RA3wt18mTYS8kiPGTELV8mQL2-_EE/view?usp=drive_link"
-      },
-      {
-        "title": "XIX Outdoor Signalling – Installation, Testing and Maintenance of Equipment",
-        "url": "https://drive.google.com/file/d/1lLFq-ana8k90XxEK-fPJHq85ZesXfZvL/view?usp=drive_link"
-      },
-      {
-        "title": "XX Automatic Block Signalling",
-        "url": "https://drive.google.com/file/d/14s6EfAwqmmmU4NS0LBSRzTRwHOEuiCiI/view?usp=drive_link"
-      },
-      {
-        "title": "XXI Relay & Electronic Interlocking",
-        "url": "https://drive.google.com/file/d/1RG_XDYDpsC3YY2cYV2NfKBWH9TwJI5-Y/view?usp=drive_link"
-      },
-      {
-        "title": "XXII Requirements of Signalling in 25 KV AC Electrified Area",
-        "url": "https://drive.google.com/file/d/1IPfDZlu-OUFmGVGYSqeX6QOoHATyVaDt/view?usp=drive_link"
-      }
+      {"title": "I Organisation of the Signal & Telecommunication Department", "url": "https://drive.google.com/file/d/1xq-M7O3Aa6hJoYLpjBvHa1B9dB7FxB3l/view?usp=drive_link"},
+      {"title": "II Duties of Signal & Telecommunication Engineers", "url": "https://drive.google.com/file/d/1YCrT9GCd9QkYJk8ranSMmNpEgqkJ0tT5/view?usp=drive_link"},
+      {"title": "III Duties of Signal Supervisors & Technical Staff", "url": "https://drive.google.com/file/d/1orScw3LTxgoLzqHoAniFxuE8znj0KFui/view?usp=drive_link"},
+      {"title": "IV Budget, Estimates, Expenditure, Budget Control and Completion Reports", "url": "https://drive.google.com/file/d/1iE-0XzxDHJP3g6szjMYvkMhApursw8jS/view?usp=drive_link"},
+      {"title": "V Planning, Estimating & Survey", "url": "https://drive.google.com/file/d/1VcpeeGLIg8M2dNOOD6try73x1_yHtHLb/view?usp=drive_link"},
+      {"title": "VI Signalling Stores and Account", "url": "https://drive.google.com/file/d/1SqY49elhwo4GD0gAeswTvxcUcfAVAGZR/view?usp=drive_link"},
+      {"title": "VII Essential of Signalling", "url": "https://drive.google.com/file/d/1W-AseEs9vWeIPHlrmeB-QvcWuNyO1VOv/view?usp=drive_link"},
+      {"title": "VIII Drawings & Specifications", "url": "https://drive.google.com/file/d/16755r9Qm-Xs1xYQUOCzKwE7T96w7uhi6/view?usp=drive_link"},
+      {"title": "IX Procedure for Commissioning of Signaling Installations", "url": "https://drive.google.com/file/d/14BHpWsuiQeQgrFQfWJ6FDlixIvUPhRZO/view?usp=drive_link"},
+      {"title": "X Contracts for Works", "url": "https://drive.google.com/file/d/1ZsX4XtodboVtXy2R0S3GVC_3q83MNwNu/view?usp=drive_link"},
+      {"title": "XI Dataloggers & Predictive Maintenance Systems", "url": "https://drive.google.com/file/d/13HyZfCv99wHqRi7ke48cesroHgqRpAiz/view?usp=drive_link"},
+      {"title": "XII Installation, Testing & Maintenance of Mechanical Signalling Equipment", "url": "https://drive.google.com/file/d/1iNAvmA3KWEaPZ2u4bn4nYgmd-kvYO_Q3/view?usp=drive_link"},
+      {"title": "XIII ATP, ETCS, TPWS, IRATP (TCAS) & TMS", "url": "https://drive.google.com/file/d/1HoLAuSKGE3RGeMf8-9sDvXEGxfCiAvL2/view?usp=drive_link"},
+      {"title": "XIV LC Gates", "url": "https://drive.google.com/file/d/1O9oZTIYBbJaxf2ETFc8xnRX2TYu-FVee/view?usp=drive_link"},
+      {"title": "XV Cables", "url": "https://drive.google.com/file/d/1ZXmjViwgDWZ1V-H9UJNsl7ozEI-FAvEZ/view?usp=drive_link"},
+      {"title": "XVI Power Supply Systems for Signalling Installation", "url": "https://drive.google.com/file/d/1TI237KuKMo6Xg7cmKM89dESb7BcU2a53/view?usp=drive_link"},
+      {"title": "XVII Train Detection – Track Circuits & Axle Counters", "url": "https://drive.google.com/file/d/1m6DDm6oRmfboT_FQQPvcEVcGY4MI9ZPN/view?usp=drive_link"},
+      {"title": "XVIII Block Instruments, BPAC & IBS Working", "url": "https://drive.google.com/file/d/1UL4RA3wt18mTYS8kiPGTELV8mQL2-_EE/view?usp=drive_link"},
+      {"title": "XIX Outdoor Signalling – Installation, Testing and Maintenance of Equipment", "url": "https://drive.google.com/file/d/1lLFq-ana8k90XxEK-fPJHq85ZesXfZvL/view?usp=drive_link"},
+      {"title": "XX Automatic Block Signalling", "url": "https://drive.google.com/file/d/14s6EfAwqmmmU4NS0LBSRzTRwHOEuiCiI/view?usp=drive_link"},
+      {"title": "XXI Relay & Electronic Interlocking", "url": "https://drive.google.com/file/d/1RG_XDYDpsC3YY2cYV2NfKBWH9TwJI5-Y/view?usp=drive_link"},
+      {"title": "XXII Requirements of Signalling in 25 KV AC Electrified Area", "url": "https://drive.google.com/file/d/1IPfDZlu-OUFmGVGYSqeX6QOoHATyVaDt/view?usp=drive_link"}
     ],
     "subCategories": [
       {
         "category": "Correction Slips",
         "documents": [
-          {
-            "title": "Corection Slip No. 1 of IRSEM 2021",
-            "url": "https://drive.google.com/file/d/1DqBx47537FL-0gRgO9B_jkZnYaUJwyaV/view?usp=drive_link"
-          },
-          {
-            "title": "Addendum and Corrigendum Slip no. 2 of IRSEM, 2021",
-            "url": "https://drive.google.com/file/d/1I2tOLS9cPVcDfzx4Mdx21X9LIVBdRBi6/view?usp=drive_link"
-          },
-          {
-            "title": "Addendum and Corrigendum Slip No. 3 of IRSEM, 2021",
-            "url": "https://drive.google.com/file/d/1oMMV3Oco50weMJTSobp5E5-dV7LwaWMG/view?usp=drive_link"
-          },
-          {
-            "title": "IRSEM Addendum and Corrigendum Slip No. 4",
-            "url": "https://drive.google.com/file/d/1tjfemczlJogyXu6Prhhn1emBh-qH_x4l/view?usp=drive_link"
-          },
-          {
-            "title": "IRSEM Addendum and Corrigendum Slip No. 5",
-            "url": "https://drive.google.com/file/d/1j4CvXC8NM_7P841xfJ3FZwtPcN8MTn_T/view?usp=drive_link"
-          },
-          {
-            "title": "IRSEM Addendum and Corrigendum Slip No. 6",
-            "url": "https://drive.google.com/file/d/10IJqVOLNXHzZwBARB72RW7TKQo-iiI5C/view?usp=drive_link"
-          },
-          {
-            "title": "IRSEM Addendum and Corrigendum Slip No. 7",
-            "url": "https://drive.google.com/file/d/1JIocIgU5w_6IZGzXjsk_Jhmad08iii7Y/view?usp=drive_link"
-          },
-          {
-            "title": "IRSEM (July 2021 Edition) Addendum and Corrigendum Slip No. 8 reg Chapter- 14 LC Gates",
-            "url": "https://drive.google.com/file/d/1g77PMh-SLOHB139DgBBxCgpPWTqObuuL/view?usp=drive_link"
-          },
-          {
-            "title": "Addendum and Corrigendum Slip No.9 of the IndianRailway Signal Engineering Manual (July 2021 Edition)",
-            "url": "https://drive.google.com/file/d/1RMhmoWrkU1U7iM5YpaRs-8SUNqawQyuk/view?usp=drive_link"
-          }
+          {"title": "Corection Slip No. 1 of IRSEM 2021", "url": "https://drive.google.com/file/d/1DqBx47537FL-0gRgO9B_jkZnYaUJwyaV/view?usp=drive_link"},
+          {"title": "Addendum and Corrigendum Slip no. 2 of IRSEM, 2021", "url": "https://drive.google.com/file/d/1I2tOLS9cPVcDfzx4Mdx21X9LIVBdRBi6/view?usp=drive_link"},
+          {"title": "Addendum and Corrigendum Slip No. 3 of IRSEM, 2021", "url": "https://drive.google.com/file/d/1oMMV3Oco50weMJTSobp5E5-dV7LwaWMG/view?usp=drive_link"},
+          {"title": "IRSEM Addendum and Corrigendum Slip No. 4", "url": "https://drive.google.com/file/d/1tjfemczlJogyXu6Prhhn1emBh-qH_x4l/view?usp=drive_link"},
+          {"title": "IRSEM Addendum and Corrigendum Slip No. 5", "url": "https://drive.google.com/file/d/1j4CvXC8NM_7P841xfJ3FZwtPcN8MTn_T/view?usp=drive_link"},
+          {"title": "IRSEM Addendum and Corrigendum Slip No. 6", "url": "https://drive.google.com/file/d/10IJqVOLNXHzZwBARB72RW7TKQo-iiI5C/view?usp=drive_link"},
+          {"title": "IRSEM Addendum and Corrigendum Slip No. 7", "url": "https://drive.google.com/file/d/1JIocIgU5w_6IZGzXjsk_Jhmad08iii7Y/view?usp=drive_link"},
+          {"title": "IRSEM (July 2021 Edition) Addendum and Corrigendum Slip No. 8 reg Chapter- 14 LC Gates", "url": "https://drive.google.com/file/d/1g77PMh-SLOHB139DgBBxCgpPWTqObuuL/view?usp=drive_link"},
+          {"title": "Addendum and Corrigendum Slip No.9 of the IndianRailway Signal Engineering Manual (July 2021 Edition)", "url": "https://drive.google.com/file/d/1RMhmoWrkU1U7iM5YpaRs-8SUNqawQyuk/view?usp=drive_link"}
         ]
       }
     ]
@@ -269,40 +86,49 @@
   {
     "category": "Latest TAN",
     "documents": [
+      {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link"},
+      {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link"}
+    ],
+    "subCategories": [
       {
-        "title": "EI Installation Approval Guidelines",
-        "url": "https://drive.google.com/file/d/1bIJl0nqDrbDiBwOnHSsnq_cLeSpt_Ff5/view?usp=sharing"
+        "category": "Signal",
+        "documents": [
+          {"title": "Guidelines regarding Technical System Application Approval for Electronic Interlocking Installation (TAN No. STS/E/TAN/3012, Ver. 4.0 dated 23.07.2025)", "url": "https://drive.google.com/file/d/1bIJl0nqDrbDiBwOnHSsnq_cLeSpt_Ff5/view?usp=sharing"},
+          {"title": "Use of Embedded PC for EI (TAN No. STS/E/TAN/3007, Ver. 1.0 dated 02.11.2012)", "url": "https://drive.google.com/file/d/1yDNa3lN5F_vZnu_jvBxz_3_oQO5Lsr_0/view?usp=drive_link"},
+          {"title": "TAN on Earthing, Bonding, Surge and Lightning Protection System (TAN No. STS/E/TAN/3006, Ver 3.1, dated 30.06.2025)", "url": "https://drive.google.com/file/d/1yDNa3lN5F_vZnu_jvBxz_3_oQO5Lsr_0/view?usp=drive_link"},
+          {"title": "Guidelines and Precautions of AFDAS System for Installation, Testing, Maintenance & Cleaning etc. (TAN No. STS/E/TAN/3009 Version 1.1 Dated 19/11/2025)", "url": "https://drive.google.com/file/d/1vxjz_cl3kYC3jGIjdJp7mETki5pbxVUw/view?usp=sharing"},
+          {"title": "Technical System Application Approval (TSAA) of Digital Axle Counter system installations before commissioning.", "url": "https://drive.google.com/file/d/1meElXl5PwyDAJq6lvzWJ8HCXHkIGQeY9/view?usp=sharing"},
+          {"title": "EI alteration TSAA", "url": "https://drive.google.com/file/d/1X1R6RoUnZxqiFz_7G9A2oFa7rOP5AYCE/view?usp=sharing"},
+          {"title": "Power Supply Arrangement", "url": "https://drive.google.com/file/d/19Ce0kYifswkHzX2yTK5vCdqCI-EMOmu5/view?usp=sharing"},
+          {"title": "Guidelines and precautions of installation of Digital Axle Counter", "url": "https://drive.google.com/file/d/1OvT3dK3sbig4I_nRNuY_VSWDprvHcaSM/view?aring"},
+          {"title": "CHECKLIST OF ELECTRONIC INTERLOCKING SYSTEM FOR TECHNICAL SYSTEM APPLICATION APPROVAL", "url": "https://drive.google.com/file/d/1DwfDPuMbE4LleccAtl1ypuZAFpjF47IB/view?usp=sharing"},
+          {"title": "Cyber Security Aspects of EI (TAN No. EI/TAN/Security, Ver. 1.0 dated 01.03.2023)", "url": ""}
+        ]
       },
       {
-        "title": "Cyber Security Aspects of EI",
-        "url": "https://drive.google.com/file/d/1DwfDPuMbE4LleccAtl1ypuZAFpjF47IB/view?usp=sharing"
+        "category": "Telecom",
+        "documents": [
+          {"title": "Revised List of Minimum Essential Telecom Equipment’s to be kept in Accident Relief Trains (ART’s).", "url": "https://drive.google.com/file/d/1UJWQyue2pV77eh3sEQJvXQ8pnSd94R2J/view?usp=sharing"},
+          {"title": "Comprehensive Security Guidelines for CCTV Network", "url": "https://drive.google.com/file/d/15zC_eCp41_LT726WMoNIkGe_D3cGasD4/view?usp=sharing"},
+          {"title": "25 W VHF Radio Installation guidelines.", "url": "https://drive.google.com/file/d/1hsEfx6rY0Ca4YhUawu3duAtXUaCtdoUe/view?usp=sharing"},
+          {"title": "‘QR Code Based Payment Enabled Fare Repeater Display System for Indian Railways’.", "url": "https://drive.google.com/file/d/1Wg7LcOtuOPxbAx5nw2TeIdutz_Pc3CTJ/view?usp=sharing"},
+          {"title": "Amendment No.1 of Technical Advisory Note (TAN) Version 3.0 for the item “Implementation of IP-MPLS Technology for Unified Communication Backbone on Indian Railways.", "url": "https://drive.google.com/file/d/1GNtULnqRaXJTWHZvh9Qc4-5O_OZ7eKXI/view?usp=sharing"}
+        ]
       }
     ]
   },
   {
     "category": "Maintenance Handbooks",
     "documents": [
-      {
-        "title": "Handbook on Precautions During Circuit Alteration",
-        "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S&T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"
-      },
-      {
-        "title": "Maintenance Handbook on Integrated Power Supply",
-        "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S&T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"
-      }
+      {"title": "Handbook on Precautions During Circuit Alteration", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S&T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"},
+      {"title": "Maintenance Handbook on Integrated Power Supply", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S&T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"}
     ]
   },
   {
     "category": "Important Website Links",
     "documents": [
-      {
-        "title": "RDSO – Indian Railways Specifications",
-        "url": "https://rdso.indianrailways.gov.in"
-      },
-      {
-        "title": "IRISET New Notes",
-        "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT"
-      }
+      {"title": "RDSO – Indian Railways Specifications", "url": "https://rdso.indianrailways.gov.in"},
+      {"title": "IRISET New Notes", "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT"}
     ]
   }
 ]
