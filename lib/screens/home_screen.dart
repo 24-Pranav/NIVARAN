@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nivaran/models/category.dart';
 import 'package:nivaran/providers/document_provider.dart';
 import 'package:nivaran/screens/document_list_screen.dart';
+import 'package:nivaran/screens/sub_category_screen.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -52,12 +53,21 @@ class _HomeScreenState extends State<HomeScreen> {
               Category category = provider.categories[index];
               return GestureDetector(
                 onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => DocumentListScreen(category: category),
-                    ),
-                  );
+                  if (category.subCategories.isNotEmpty) {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SubCategoryScreen(category: category),
+                      ),
+                    );
+                  } else {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => DocumentListScreen(category: category),
+                      ),
+                    );
+                  }
                 },
                 child: Card(
                   elevation: 5,

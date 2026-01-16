@@ -112,7 +112,7 @@
         "url": ""
       },
       {
-        "title": "Study of Stand by fuse system, working wiring diagram and fault finding",
+        "title": "Study of Stand by fuse system, working wiring diagram and ault finding",
         "url": ""
       },
       {
@@ -220,46 +220,48 @@
         "title": "XXII Requirements of Signalling in 25 KV AC Electrified Area",
         "url": "https://drive.google.com/file/d/1IPfDZlu-OUFmGVGYSqeX6QOoHATyVaDt/view?usp=drive_link"
       }
-    ]
-  },
-  {
-    "category": "Correction Slips",
-    "documents": [
+    ],
+    "subCategories": [
       {
-        "title": "Corection Slip No. 1 of IRSEM 2021",
-        "url": "https://drive.google.com/file/d/1DqBx47537FL-0gRgO9B_jkZnYaUJwyaV/view?usp=drive_link"
-      },
-      {
-        "title": "Addendum and Corrigendum Slip no. 2 of IRSEM, 2021",
-        "url": "https://drive.google.com/file/d/1I2tOLS9cPVcDfzx4Mdx21X9LIVBdRBi6/view?usp=drive_link"
-      },
-      {
-        "title": "Addendum and Corrigendum Slip No. 3 of IRSEM, 2021",
-        "url": "https://drive.google.com/file/d/1oMMV3Oco50weMJTSobp5E5-dV7LwaWMG/view?usp=drive_link"
-      },
-      {
-        "title": "IRSEM Addendum and Corrigendum Slip No. 4",
-        "url": "https://drive.google.com/file/d/1tjfemczlJogyXu6Prhhn1emBh-qH_x4l/view?usp=drive_link"
-      },
-      {
-        "title": "IRSEM Addendum and Corrigendum Slip No. 5",
-        "url": "https://drive.google.com/file/d/1j4CvXC8NM_7P841xfJ3FZwtPcN8MTn_T/view?usp=drive_link"
-      },
-      {
-        "title": "IRSEM Addendum and Corrigendum Slip No. 6",
-        "url": "https://drive.google.com/file/d/10IJqVOLNXHzZwBARB72RW7TKQo-iiI5C/view?usp=drive_link"
-      },
-      {
-        "title": "IRSEM Addendum and Corrigendum Slip No. 7",
-        "url": "https://drive.google.com/file/d/1JIocIgU5w_6IZGzXjsk_Jhmad08iii7Y/view?usp=drive_link"
-      },
-      {
-        "title": "IRSEM (July 2021 Edition) Addendum and Corrigendum Slip No. 8 reg Chapter- 14 LC Gates",
-        "url": "https://drive.google.com/file/d/1g77PMh-SLOHB139DgBBxCgpPWTqObuuL/view?usp=drive_link"
-      },
-      {
-        "title": "Addendum and Corrigendum Slip No.9 of the IndianRailway Signal Engineering Manual (July 2021 Edition)",
-        "url": "https://drive.google.com/file/d/1RMhmoWrkU1U7iM5YpaRs-8SUNqawQyuk/view?usp=drive_link"
+        "category": "Correction Slips",
+        "documents": [
+          {
+            "title": "Corection Slip No. 1 of IRSEM 2021",
+            "url": "https://drive.google.com/file/d/1DqBx47537FL-0gRgO9B_jkZnYaUJwyaV/view?usp=drive_link"
+          },
+          {
+            "title": "Addendum and Corrigendum Slip no. 2 of IRSEM, 2021",
+            "url": "https://drive.google.com/file/d/1I2tOLS9cPVcDfzx4Mdx21X9LIVBdRBi6/view?usp=drive_link"
+          },
+          {
+            "title": "Addendum and Corrigendum Slip No. 3 of IRSEM, 2021",
+            "url": "https://drive.google.com/file/d/1oMMV3Oco50weMJTSobp5E5-dV7LwaWMG/view?usp=drive_link"
+          },
+          {
+            "title": "IRSEM Addendum and Corrigendum Slip No. 4",
+            "url": "https://drive.google.com/file/d/1tjfemczlJogyXu6Prhhn1emBh-qH_x4l/view?usp=drive_link"
+          },
+          {
+            "title": "IRSEM Addendum and Corrigendum Slip No. 5",
+            "url": "https://drive.google.com/file/d/1j4CvXC8NM_7P841xfJ3FZwtPcN8MTn_T/view?usp=drive_link"
+          },
+          {
+            "title": "IRSEM Addendum and Corrigendum Slip No. 6",
+            "url": "https://drive.google.com/file/d/10IJqVOLNXHzZwBARB72RW7TKQo-iiI5C/view?usp=drive_link"
+          },
+          {
+            "title": "IRSEM Addendum and Corrigendum Slip No. 7",
+            "url": "https://drive.google.com/file/d/1JIocIgU5w_6IZGzXjsk_Jhmad08iii7Y/view?usp=drive_link"
+          },
+          {
+            "title": "IRSEM (July 2021 Edition) Addendum and Corrigendum Slip No. 8 reg Chapter- 14 LC Gates",
+            "url": "https://drive.google.com/file/d/1g77PMh-SLOHB139DgBBxCgpPWTqObuuL/view?usp=drive_link"
+          },
+          {
+            "title": "Addendum and Corrigendum Slip No.9 of the IndianRailway Signal Engineering Manual (July 2021 Edition)",
+            "url": "https://drive.google.com/file/d/1RMhmoWrkU1U7iM5YpaRs-8SUNqawQyuk/view?usp=drive_link"
+          }
+        ]
       }
     ]
   },
