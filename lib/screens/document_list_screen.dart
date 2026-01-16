@@ -30,6 +30,7 @@ class DocumentListScreen extends StatelessWidget {
                 crossAxisCount: 2,
                 crossAxisSpacing: 10.0,
                 mainAxisSpacing: 10.0,
+                childAspectRatio: 0.9,
               ),
               itemBuilder: (context, index) {
                 var document = category.documents[index];
@@ -73,12 +74,16 @@ class DocumentListScreen extends StatelessWidget {
                       children: [
                         Icon(_getIconForUrl(document.url), size: 50, color: Colors.orange),
                         const SizedBox(height: 10),
-                        Padding(
-                          padding: const EdgeInsets.symmetric(horizontal: 8.0),
-                          child: Text(
-                            document.title,
-                            textAlign: TextAlign.center,
-                            style: const TextStyle(fontSize: 16),
+                        Flexible(
+                          child: Padding(
+                            padding: const EdgeInsets.symmetric(horizontal: 8.0),
+                            child: Text(
+                              document.title,
+                              textAlign: TextAlign.center,
+                              maxLines: 3,
+                              overflow: TextOverflow.ellipsis,
+                              style: const TextStyle(fontSize: 14),
+                            ),
                           ),
                         ),
                       ],
