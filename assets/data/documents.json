@@ -1,37 +1,118 @@
-
 [
   {
     "category": "Maintenance & Troubleshooting Manual",
     "documents": [
       {
         "title": "DC Track Circuit Maintenance",
-        "url": "https://drive.google.com/file/d/1-1B5b3v4Y5p3A2f2g2h3I4j5k6l7m8n9/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1CZdhhMfsSWm09g-_q6g4nfaX81pS-XN0/view?usp=drive_link"
       },
       {
-        "title": "Signal Motor Maintenance",
-        "url": "https://drive.google.com/file/d/1-1B5b3v4Y5p3A2f2g2h3I4j5k6l7m8n9/view?usp=sharing"
+        "title": "Point Maintenance",
+        "url": "https://drive.google.com/file/d/1fDGm4jr7mbPr6bUUJZSOSiPy2NwJVEQm/view?usp=drive_link"
+      },
+      {
+        "title": "TWS Point Maintenance",
+        "url": "https://drive.google.com/file/d/1LIlQZ0qUCweqLdeLqevVmAHjkuN5krBQ/view?usp=drive_link"
+      },
+      {
+        "title": "IPS Maintenance",
+        "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"
+      },
+      {
+        "title": "CEL SSDAC / BPAC Maintenance",
+        "url": "https://drive.google.com/file/d/1YCfZYZNBoKkWo4UiFvD6MHHmF-rpkrGl/view?usp=drive_link"
+      },
+      {
+        "title": "Siemens MSDAC AzS 350-U Maintenance",
+        "url": "https://drive.google.com/file/d/1f-UZTvrrKnpIe2KwdfFKPRNLzNIqDaix/view?usp=drive_link"
+      },
+      {
+        "title": "Failure Analysis of Typical Failures in Signalling",
+        "url": "https://drive.google.com/file/d/1XaQFAXI2gELiXzsFJs1apovcndcG36B-/view?usp=sharing"
       }
     ]
   },
   {
-    "category": "Friday Online Training Series",
+    "category": "Friday Online Training Series BSL Div",
     "documents": [
       {
-        "title": "Training on Electronic Interlocking",
-        "url": "https://drive.google.com/file/d/1-1B5b3v4Y5p3A2f2g2h3I4j5k6l7m8n9/view?usp=sharing"
+        "title": "Electronic Interlocking Working Part-1 (Fault Finding Techniques)",
+        "url": "https://docs.google.com/presentation/d/1obltOybHnyNP2CFC23SicgnAosoFpiDM/edit?usp=sharing"
+      },
+      {
+        "title": "DC Track Circuit Study, Maintenance & Failure Analysis",
+        "url": "https://drive.google.com/file/d/1YV7tQOpMBICbdYgVnGQ0dM6eeuMiW9LQ/view?usp=sharing"
+      },
+      {
+        "title": "CEL SSDAC / HASSDAC Study",
+        "url": "https://docs.google.com/presentation/d/1xcZo-HguNqSqwP2G4tMKBvdCKvSj8O0o/edit?usp=drive_link"
+      },
+      {
+        "title": "Introduction to Kavach – Working & Work Execution",
+        "url": "https://docs.google.com/presentation/d/12imXaJwMX9WL96lriddVtQcJR4g3SgLl/edit?usp=sharing"
+      },
+      {
+        "title": "IBH with MSDAC – Circuit Explanation & Failure Study",
+        "url": "https://docs.google.com/presentation/d/1sZQzfOsKuk0hJkGdGt21JIx3dFVRvJpT/edit?usp=drive_link"
+      },
+      {
+        "title": "Electronic Interlocking Part-II (I/O Cards & PM)",
+        "url": "https://drive.google.com/file/d/1T8fSYb4dT8xaKSCPVeI41k-uuf_ycFL1/view?usp=drive_link"
       }
     ]
   },
   {
     "category": "Latest IRSEM",
-    "documents": []
+    "documents": [
+      {
+        "title": "Organisation of Signal & Telecommunication Department",
+        "url": "https://drive.google.com/file/d/1xq-M7O3Aa6hJoYLpjBvHa1B9dB7FxB3l/view?usp=drive_link"
+      },
+      {
+        "title": "Duties of Signal & Telecommunication Engineers",
+        "url": "https://drive.google.com/file/d/1YCrT9GCd9QkYJk8ranSMmNpEgqkJ0tT5/view?usp=drive_link"
+      },
+      {
+        "title": "Duties of Signal Supervisors & Technical Staff",
+        "url": "https://drive.google.com/file/d/1orScw3LTxgoLzqHoAniFxuE8znj0KFui/view?usp=drive_link"
+      },
+      {
+        "title": "Automatic Block Signalling",
+        "url": "https://drive.google.com/file/d/14s6EfAwqmmmU4NS0LBSRzTRwHOEuiCiI/view?usp=drive_link"
+      },
+      {
+        "title": "Relay & Electronic Interlocking",
+        "url": "https://drive.google.com/file/d/1RG_XDYDpsC3YY2cYV2NfKBWH9TwJI5-Y/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "category": "IRSEM Correction Slips",
+    "documents": [
+      {
+        "title": "Correction Slip No. 1 (IRSEM 2021)",
+        "url": "https://drive.google.com/file/d/1DqBx47537FL-0gRgO9B_jkZnYaUJwyaV/view?usp=drive_link"
+      },
+      {
+        "title": "Addendum & Corrigendum Slip No. 2",
+        "url": "https://drive.google.com/file/d/1I2tOLS9cPVcDfzx4Mdx21X9LIVBdRBi6/view?usp=drive_link"
+      },
+      {
+        "title": "Addendum & Corrigendum Slip No. 3",
+        "url": "https://drive.google.com/file/d/1oMMV3Oco50weMJTSobp5E5-dV7LwaWMG/view?usp=drive_link"
+      }
+    ]
   },
   {
     "category": "Latest TAN",
     "documents": [
       {
-        "title": "TAN-01-2023",
-        "url": "https://drive.google.com/file/d/1-1B5b3v4Y5p3A2f2g2h3I4j5k6l7m8n9/view?usp=sharing"
+        "title": "EI Installation Approval Guidelines",
+        "url": "https://drive.google.com/file/d/1bIJl0nqDrbDiBwOnHSsnq_cLeSpt_Ff5/view?usp=sharing"
+      },
+      {
+        "title": "Cyber Security Aspects of EI",
+        "url": "https://drive.google.com/file/d/1DwfDPuMbE4LleccAtl1ypuZAFpjF47IB/view?usp=sharing"
       }
     ]
   },
@@ -39,8 +120,12 @@
     "category": "Maintenance Handbooks",
     "documents": [
       {
-        "title": "Handbook on Signalling",
-        "url": "https://drive.google.com/file/d/1-1B5b3v4Y5p3A2f2g2h3I4j5k6l7m8n9/view?usp=sharing"
+        "title": "Handbook on Precautions During Circuit Alteration",
+        "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"
+      },
+      {
+        "title": "Maintenance Handbook on Integrated Power Supply",
+        "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"
       }
     ]
   },
@@ -48,8 +133,12 @@
     "category": "Important Website Links",
     "documents": [
       {
-        "title": "Indian Rail website",
-        "url": "https://indianrailways.gov.in/"
+        "title": "RDSO – Indian Railways Specifications",
+        "url": "https://rdso.indianrailways.gov.in"
+      },
+      {
+        "title": "IRISET New Notes",
+        "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT"
       }
     ]
   }
