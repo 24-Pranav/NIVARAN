@@ -31,7 +31,7 @@ class DocumentListScreen extends StatelessWidget {
                 final item = combinedList[index];
 
                 if (item is Document) {
-                  return DocumentItem(document: item);
+                  return DocumentItem(document: item, category: category);
                 } else if (item is Category) {
                   return CategoryItem(category: item);
                 }
@@ -46,11 +46,16 @@ class DocumentItem extends StatelessWidget {
   const DocumentItem({
     super.key,
     required this.document,
+    required this.category,
   });
 
   final Document document;
+  final Category category;
 
   IconData _getIcon() {
+    if (category.name == 'BSL Div. S&T Youtube Learning Series') {
+      return Icons.play_circle_filled;
+    }
     if (document.isFolder) {
       return Icons.folder;
     } else if (document.isLink) {
