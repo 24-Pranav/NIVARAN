@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nivaran/providers/document_provider.dart';
-import 'package:nivaran/screens/home_screen.dart';
+import 'package:nivaran/screens/splash_screen.dart';
 import 'package:nivaran/utils/app_theme.dart';
 import 'package:provider/provider.dart';
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Nivaran',
         theme: AppTheme.lightTheme,
-        home: const HomeScreen(),
+        home: const SplashScreen(),
       ),
     );
   }
