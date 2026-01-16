@@ -15,7 +15,9 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
-    Provider.of<DocumentProvider>(context, listen: false).fetchDocuments();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Provider.of<DocumentProvider>(context, listen: false).fetchDocuments();
+    });
   }
 
   @override
@@ -62,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Icon(Icons.folder, size: 50, color: Colors.blue),
+                      const Icon(Icons.folder, size: 50, color: Colors.orange),
                       const SizedBox(height: 10),
                       Text(
                         category.name,
