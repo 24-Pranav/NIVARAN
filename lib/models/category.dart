@@ -19,7 +19,7 @@ class Category {
     List<Category> subs = subCategoriesList.map((i) => Category.fromJson(i)).toList();
 
     return Category(
-      name: json['category'],
+      name: json['category'] ?? 'Unnamed Category',
       documents: docs,
       subCategories: subs,
     );
