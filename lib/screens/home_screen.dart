@@ -38,21 +38,39 @@ class _HomeScreenState extends State<HomeScreen> {
             return const Center(child: Text('No categories found.'));
           }
 
-          return ListView.builder(
+          return GridView.builder(
+            padding: const EdgeInsets.all(10.0),
             itemCount: provider.categories.length,
+            gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 2,
+              crossAxisSpacing: 10.0,
+              mainAxisSpacing: 10.0,
+            ),
             itemBuilder: (context, index) {
               Category category = provider.categories[index];
-              return Card(
-                child: ListTile(
-                  title: Text(category.name),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => DocumentListScreen(category: category),
+              return GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => DocumentListScreen(category: category),
+                    ),
+                  );
+                },
+                child: Card(
+                  elevation: 5,
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      const Icon(Icons.folder, size: 50, color: Colors.blue),
+                      const SizedBox(height: 10),
+                      Text(
+                        category.name,
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(fontSize: 16),
                       ),
-                    );
-                  },
+                    ],
+                  ),
                 ),
               );
             },
