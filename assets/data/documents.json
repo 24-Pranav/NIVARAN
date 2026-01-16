@@ -85,10 +85,6 @@
   },
   {
     "category": "Latest TAN",
-    "documents": [
-      {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link"},
-      {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link"}
-    ],
     "subCategories": [
       {
         "category": "Signal",
@@ -116,6 +112,20 @@
         ]
       }
     ]
+  },
+  {
+    "category": "Policy Letters",
+    "documents": [],
+    "subCategories": [],
+    "isFolder": true,
+    "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link"
+  },
+  {
+    "category": "Important Letters",
+    "documents": [],
+    "subCategories": [],
+    "isFolder": true,
+    "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link"
   },
   {
     "category": "Maintenance Handbooks",
