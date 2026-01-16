@@ -1,3 +1,4 @@
+
 [
   {
     "category": "BSL Div. Maintenance & Troubleshooting Manual",
@@ -33,10 +34,22 @@
       {"title": "Study of Signal LED aspects, Maintenance & failure case study. Analysis of CMS Abnormalities", "url": ""},
       {"title": "Study of Efftronics data logger, working, Important Analog/Digital inputs, various fault logics & Daily exceptions reports.", "url": ""},
       {"title": "Earthing arrangements of Signalling Installations as per TAN (Technical Advisory Note)", "url": ""},
-      {"title": "Study of Stand by fuse system, working wiring diagram and ault finding", "url": ""},
+      {"title": "Study of Stand by fuse system, working and wiring diagram and ault finding", "url": ""},
       {"title": "Study of fire alarm system, working and wiring diagram", "url": ""},
       {"title": "Safety in train Operation and Weak areas", "url": ""},
       {"title": "Signalling in RE. SODs Joint Inspections", "url": ""}
+    ]
+  },
+  {
+    "category": "BSL Div. Stationwise S&T Documents and Drawings",
+    "documents": [
+      {"title": "BSL Div. Stationwise S&T Documents and Drawings", "url": "https://drive.google.com/drive/folders/1_TA3E0xujM6bcbNiekccnC9RQgbSk12n?usp=drive_link"}
+    ]
+  },
+  {
+    "category": "BSL Div. Safety Drive Master Sheet Link",
+    "documents": [
+      {"title": "BSL Div. Safety Drive Master Sheet Link", "url": "https://docs.google.com/spreadsheets/d/1cycAG_PFua8xv6dCrAwCX-re6UJJYX-t2GzztnQz6IM/edit?usp=sharing"}
     ]
   },
   {
@@ -131,7 +144,7 @@
           {"title": "Handbook on Precaution do’s&don’ts during circuit alteration in signalling system", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"},
           {"title": "Handbook on Guidelines for minimizing failures of Electric Point Machine", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Minimizing%20failures%20of%20Electric%20Point%20Machine.pdf"},
           {"title": "Handbook on guidelines for non-interlocking working & commissioning of signaling installations", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Non%20Interlocking%20woring%20%20Approved%20Copy%20January%202025%20adobe.pdf"},
-          {"title": "Siemens ACM 200", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/1_%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20_%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%B8%20ACM%20200.pdf"},
+          {"title": "Siemens ACM 200", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/1_%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B7%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20_%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%B8%20ACM%20200.pdf"},
           {"title": "Maintenance Handbook on Integrated Power Supply for Signalling Ver.4.0", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"},
           {"title": "Handbook on Installation & Maintenance practices of Glued Joints for Track Circuits", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F%20%E0%A4%B9%E0%A5%87%E0%A4%A4%E0%A5%81%20%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%82%E0%A4%A1%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%B0%E0%A5%87%E0%A4%B2%20%E0%A4%9C%E0%A5%89%E0%A4%87%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8.pdf"},
           {"title": "Handbook on Installation, Maintenance & Troubleshooting of SIGMA Rail DAC Model BO23", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/2023-24/Handbook%20on%20SIGMA%20Rail%20DAC%20Model%20BO23.pdf"}
