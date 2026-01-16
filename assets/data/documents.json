@@ -43,13 +43,13 @@
   {
     "category": "BSL Div. Stationwise S&T Documents and Drawings",
     "documents": [
-      {"title": "BSL Div. Stationwise S&T Documents and Drawings", "url": "https://drive.google.com/drive/folders/1_TA3E0xujM6bcbNiekccnC9RQgbSk12n?usp=drive_link"}
+      {"title": "BSL Div. Stationwise S&T Documents and Drawings", "url": "https://drive.google.com/drive/folders/1_TA3E0xujM6bcbNiekccnC9RQgbSk12n?usp=drive_link", "isFolder": true}
     ]
   },
   {
     "category": "BSL Div. Safety Drive Master Sheet Link",
     "documents": [
-      {"title": "BSL Div. Safety Drive Master Sheet Link", "url": "https://docs.google.com/spreadsheets/d/1cycAG_PFua8xv6dCrAwCX-re6UJJYX-t2GzztnQz6IM/edit?usp=sharing"}
+      {"title": "BSL Div. Safety Drive Master Sheet Link", "url": "https://docs.google.com/spreadsheets/d/1cycAG_PFua8xv6dCrAwCX-re6UJJYX-t2GzztnQz6IM/edit?usp=sharing", "isLink": true}
     ]
   },
   {
@@ -68,7 +68,7 @@
       {"title": "Signalling Stores and Account", "url": "https://drive.google.com/file/d/1SqY49elhwo4GD0gAeswTvxcUcfAVAGZR/view?usp=drive_link"},
       {"title": "Essential of Signalling", "url": "https://drive.google.com/file/d/1W-AseEs9vWeIPHlrmeB-QvcWuNyO1VOv/view?usp=drive_link"},
       {"title": "Drawings & Specifications", "url": "https://drive.google.com/file/d/16755r9Qm-Xs1xYQUOCzKwE7T96w7uhi6/view?usp=drive_link"},
-      {"title": "Procedure for Commissioning of Signaling Installations", "url": "https://drive.google.com/file/d/14BHpWsuiQeQgrFQfWJ6FDlixIvUPhRZO/view?usp=drive_link"},
+      {"title": "Procedure for Commissioning of Signaling Installations", "url": "https/drive.google.com/file/d/14BHpWsuiQeQgrFQfWJ6FDlixIvUPhRZO/view?usp=drive_link"},
       {"title": "Contracts for Works", "url": "https://drive.google.com/file/d/1ZsX4XtodboVtXy2R0S3GVC_3q83MNwNu/view?usp=drive_link"},
       {"title": "Dataloggers & Predictive Maintenance Systems", "url": "https://drive.google.com/file/d/13HyZfCv99wHqRi7ke48cesroHgqRpAiz/view?usp=drive_link"},
       {"title": "Installation, Testing & Maintenance of Mechanical Signalling Equipment", "url": "https://drive.google.com/file/d/1iNAvmA3KWEaPZ2u4bn4nYgmd-kvYO_Q3/view?usp=drive_link"},
@@ -129,7 +129,7 @@
           {"title": "Comprehensive Security Guidelines for CCTV Network", "url": "https://drive.google.com/file/d/15zC_eCp41_LT726WMoNIkGe_D3cGasD4/view?usp=sharing"},
           {"title": "25 W VHF Radio Installation guidelines.", "url": "https://drive.google.com/file/d/1hsEfx6rY0Ca4YhUawu3duAtXUaCtdoUe/view?usp=sharing"},
           {"title": "‘QR Code Based Payment Enabled Fare Repeater Display System for Indian Railways’.", "url": "https://drive.google.com/file/d/1Wg7LcOtuOPxbAx5nw2TeIdutz_Pc3CTJ/view?usp=sharing"},
-          {"title": "Amendment No.1 of Technical Advisory Note (TAN) Version 3.0 for the item “Implementation of IP-MPLS Technology for Unified Communication Backbone on Indian Railways.", "url": "https://drive.google.com/file/d/1GNtULnqRaXJTWHZvh9Qc4-5O_OZ7eKXI/view?usp=sharing"}
+          {"title": "Amendment No.1 of Technical Advisory Note (TAN) Version 3.0 for the item “Implementation of IP-MPLS Technology for Unified Communication Backbone on Indian Railways.”", "url": "https://drive.google.com/file/d/1GNtULnqRaXJTWHZvh9Qc4-5O_OZ7eKXI/view?usp=sharing"}
         ]
       }
     ]
@@ -165,8 +165,8 @@
   {
     "category": "Important Website Links",
     "documents": [
-      {"title": "RDSO – Indian Railways Specifications", "url": "https://rdso.indianrailways.gov.in"},
-      {"title": "IRISET New Notes", "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT"}
+      {"title": "RDSO – Indian Railways Specifications", "url": "https://rdso.indianrailways.gov.in", "isLink": true},
+      {"title": "IRISET New Notes", "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT", "isFolder": true}
     ]
   }
 ]

@@ -50,6 +50,16 @@ class DocumentItem extends StatelessWidget {
 
   final Document document;
 
+  IconData _getIcon() {
+    if (document.isFolder) {
+      return Icons.folder;
+    } else if (document.isLink) {
+      return Icons.link;
+    } else {
+      return Icons.picture_as_pdf;
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
@@ -91,7 +101,7 @@ class DocumentItem extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(Icons.picture_as_pdf, size: 50, color: Colors.orange),
+            Icon(_getIcon(), size: 50, color: Colors.orange),
             const SizedBox(height: 10),
             Flexible(
               child: Padding(
@@ -149,4 +159,3 @@ class CategoryItem extends StatelessWidget {
     );
   }
 }
-
