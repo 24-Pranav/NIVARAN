@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nivaran/providers/document_provider.dart';
 import 'package:nivaran/screens/home_screen.dart';
-import 'package:nivaran/utils/app_constants.dart';
+import 'package:nivaran/utils/app_theme.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -16,11 +16,9 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => DocumentProvider(),
       child: MaterialApp(
-        title: AppConstants.appName,
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-          visualDensity: VisualDensity.adaptivePlatformDensity,
-        ),
+        debugShowCheckedModeBanner: false,
+        title: 'Nivaran',
+        theme: AppTheme.lightTheme,
         home: const HomeScreen(),
       ),
     );

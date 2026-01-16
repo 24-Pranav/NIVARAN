@@ -21,16 +21,16 @@ class DocumentListScreen extends StatelessWidget {
                 var document = category.documents[index];
                 return Card(
                   child: ListTile(
-                    leading: const Icon(Icons.picture_as_pdf),
+                    leading: const Icon(Icons.picture_as_pdf, color: Colors.orange),
                     title: Text(document.title),
                     onTap: () async {
-                      final Uri url = Uri.parse(document.url);
+                      final url = Uri.parse(document.url.replaceAll(' ', ''));
                       if (await canLaunchUrl(url)) {
-                        await launchUrl(url);
+                        await launchUrl(url, mode: LaunchMode.externalApplication);
                       } else {
                         ScaffoldMessenger.of(context).showSnackBar(
-                          const SnackBar(
-                            content: Text('Could not open the document.'),
+                          SnackBar(
+                            content: Text('Could not open the document: ${document.url}'),
                           ),
                         );
                       }
