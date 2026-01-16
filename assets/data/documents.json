@@ -145,32 +145,77 @@
       {
         "category": "Signal",
         "documents": [
-          {"title": "Handbook on Precaution do’s&don’ts during circuit alteration in signalling system", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"},
-          {"title": "Handbook on Guidelines for minimizing failures of Electric Point Machine", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Minimizing%20failures%20of%20Electric%20Point%20Machine.pdf"},
-          {"title": "Handbook on guidelines for non-interlocking working & commissioning of signaling installations", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Non%20Interlocking%20woring%20%20Approved%20Copy%20January%202025%20adobe.pdf"},
+          {"title": "Circuit Alteration Precautions", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/The%20Handbook%20on%20Precaution%20do%20%20donts%20during%20circuit%20alteration%20in%20signalling%20system.pdf"},
+          {"title": "Minimizing Point Machine Failures", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Minimizing%20failures%20of%20Electric%20Point%20Machine.pdf"},
+          {"title": "Non-Interlocking & Commissioning", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Guidelines%20for%20Non%20Interlocking%20woring%20%20Approved%20Copy%20January%202025%20adobe.pdf"},
           {"title": "Siemens ACM 200", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/1_%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B7%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20_%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%B8%20ACM%20200.pdf"},
-          {"title": "Maintenance Handbook on Integrated Power Supply for Signalling Ver.4.0", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"},
-          {"title": "Handbook on Installation & Maintenance practices of Glued Joints for Track Circuits", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F%20%E0%A4%B9%E0%A5%87%E0%A4%A4%E0%A5%81%20%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%82%E0%A4%A1%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%B0%E0%A5%87%E0%A4%B2%20%E0%A4%9C%E0%A5%89%E0%A4%87%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8.pdf"},
-          {"title": "Handbook on Installation, Maintenance & Troubleshooting of SIGMA Rail DAC Model BO23", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/2023-24/Handbook%20on%20SIGMA%20Rail%20DAC%20Model%20BO23.pdf"}
+          {"title": "IPS Maintenance", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"},
+          {"title": "Glued Joints Installation", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F%20%E0%A4%B9%E0%A5%87%E0%A4%A4%E0%A5%81%20%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%82%E0%A4%A1%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%B0%E0%A5%87%E0%A4%B2%20%E0%A4%9C%E0%A5%89%E0%A4%87%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8.pdf"},
+          {"title": "SIGMA Rail DAC", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/2023-24/Handbook%20on%20SIGMA%20Rail%20DAC%20Model%20BO23.pdf"}
         ]
       },
       {
         "category": "Telecom",
         "documents": [
-          {"title": "Handbook on Maintenance & Troubleshooting of PUNCOM Primary Digital Multiplexer", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Maintenance%20%20Troubleshooting%20of%20PUNCOM%20Primary%20Digital%20Multiplexer.pdf"},
-          {"title": "Handbook on various Telecom Passenger Amenities systems", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20various%20Telecom%20Passenger%20Amenities%20systems%20(1).pdf"},
-          {"title": "Handbook on cable fault locator equipment (OTDR)", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Cable%20Fault%20Locator%20Equipments%20(OTDR).pdf"},
-          {"title": "Handbook on Maintenance & Troubleshooting of Telecom cables", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Maintenance%20%20Troubleshooting%20of%20Telecom%20cables_May%202024(1).pdf"},
-          {"title": "Handbook on VHF communication & Mobile Train Radio Communication (GSM & TETRA based) ", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20VHF%20Communication%20and%20Mobile%20Train%20Radio%20Communication%20System.pdf"}
+          {"title": "PUNCOM PDH Maintenance", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Maintenance%20%20Troubleshooting%20of%20PUNCOM%20Primary%20Digital%20Multiplexer.pdf"},
+          {"title": "Passenger Amenities Systems", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20various%20Telecom%20Passenger%20Amenities%20systems%20(1).pdf"},
+          {"title": "OTDR Cable Fault Locator", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Cable%20Fault%20Locator%20Equipments%20(OTDR).pdf"},
+          {"title": "Telecom Cables Maintenance", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20Maintenance%20%20Troubleshooting%20of%20Telecom%20cables_May%202024(1).pdf"},
+          {"title": "VHF & MTRC Systems", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Handbook%20on%20VHF%20Communication%20and%20Mobile%20Train%20Radio%20Communication%20System.pdf"}
         ]
       }
     ]
   },
   {
+    "category" : "BSL Div.  S&T Youtube Learning Series",
+    "documents" : [
+      {"title" : "Presentation on EI TAN","url" : "https://youtu.be/7z9ZrmasUTI"},
+      {"title" : "Presentation on IPS Pre-Commissioning Checklist Filling","url" : "https://youtu.be/6PdG5VtS3NQ?si=QzgM7fY6ON0KQ524"},
+      {"title" : "Presentation on AFDAS","url" : "https://youtu.be/MtQYg88DJfY?si=B7fclU4sqW0RH4EF"}
+    ]
+  },
+  {
+    "category" : "Latest - Telecom Manual",
+    "documents" : [
+      {"title" : "Latest - Telecom Manual","url" : "https://drive.google.com/file/d/1j7g3NwQnSNdj5ias065sYrzHZ7o2jz1f/view?usp=drive_link"}
+    ]
+  },
+  {
+    "category" : "Latest SOD & SOR",
+    "documents" : [
+      {"title" : "SOD","url" : "https://drive.google.com/file/d/1xnQYThsz8fNkstv480MmLcjd3m11c0qR/view?usp=drive_link"},
+      {"title" : "SOR", "url" : "https://drive.google.com/file/d/1Newc9W2ZHmgOcuy74rX0q7v538BLfusp/view?usp=drive_link"}
+    ]
+  },
+  {
+    "category" : "Various Checklist Formats",
+    "documents" : [
+      {"title" : "Various Checklist Formats", "url" : "https://drive.google.com/drive/folders/1GxlNFSphu6djnhDuXGOOWuXz9KCQ0A27?usp=drive_link", "isFolder": true}
+    ]
+  },
+  {
+    "category" : "Quizzes",
+    "documents" : [
+      {"title" : "25W VHF Quiz", "url" :  "https://script.google.com/macros/s/AKfycby0JvazrOe7mkrUAPX4HShr0BZFqrpa0hNKxZGagBxrvHTT0fYIZejf6ugzDX-tBFBd/exec","isLink": true},
+      {"title" : "AFDAS", "url" : "https://script.google.com/macros/s/AKfycbyJMpndjrZOoZOh8jPwOuof4cNZwrr94ssHtpngjK7-2IMIqJrMF_PUxpRJTVAIbJLlkA/exec","isLink": true},
+      {"title" : "VOIP", "url" : "https://script.google.com/macros/s/AKfycbywxHkPX-iK5kmW8VJnixVOKGwatPB3COs0G45GiVt_mPcMH1s2zdp88BKVw64g59fESQ/exec","isLink": true},
+      {"title" : "EI MCQ", "url" : "https://script.google.com/macros/s/AKfycbyzEL1lVGB2RVmE20EZvHWZXyh8G0gja-mZ-m9qNnxxe4JKSGK2nA5UyTpmRrmxzNdS/exec","isLink": true},
+      {"title" : "MSDAC", "url" : "https://script.google.com/macros/s/AKfycbwczNhsKmWxVL77Ji7mb7Sdz2gWi6Zcjb9BhI66R3x9Qa56RsFxxuQ-CdxavNwg9QuF/exec","isLink": true}
+    ]
+  },
+  {
+    "category" : "IRISET New Notes",
+    "documents" : [
+      {"title": "IRISET New Notes", "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT", "isFolder": true}
+    ]
+  },
+  {
     "category": "Important Website Links",
     "documents": [
+      {"title" : "CAMTECH HANDBOOKS", "url" : "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,538,2713,2718,2722,2731","isLink": true},
       {"title": "RDSO – Indian Railways Specifications", "url": "https://rdso.indianrailways.gov.in", "isLink": true},
-      {"title": "IRISET New Notes", "url": "https://drive.google.com/drive/folders/1ZUXo4LSbpYYzoth8ZoS6TY511PCpiJmT", "isFolder": true}
+      {"title" : "IRISET","url" : "https://iriset.indianrailways.gov.in/","isLink": true},
+      {"title" : "Central Railway S&T MIS","url" : "http://10.31.2.222/sntweb","isLink": true}
     ]
   }
 ]
