@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Document Categories'),
+        title: const Text('Topics'),
       ),
       body: Consumer<DocumentProvider>(
         builder: (context, provider, child) {
