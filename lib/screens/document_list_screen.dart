@@ -15,26 +15,46 @@ class DocumentListScreen extends StatelessWidget {
       ),
       body: category.documents.isEmpty
           ? const Center(child: Text('No documents in this category.'))
-          : ListView.builder(
+          : GridView.builder(
+              padding: const EdgeInsets.all(10.0),
               itemCount: category.documents.length,
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+                crossAxisSpacing: 10.0,
+                mainAxisSpacing: 10.0,
+              ),
               itemBuilder: (context, index) {
                 var document = category.documents[index];
-                return Card(
-                  child: ListTile(
-                    leading: const Icon(Icons.picture_as_pdf, color: Colors.orange),
-                    title: Text(document.title),
-                    onTap: () async {
-                      final url = Uri.parse(document.url.replaceAll(' ', ''));
-                      if (await canLaunchUrl(url)) {
-                        await launchUrl(url, mode: LaunchMode.externalApplication);
-                      } else {
-                        ScaffoldMessenger.of(context).showSnackBar(
-                          SnackBar(
-                            content: Text('Could not open the document: ${document.url}'),
+                return GestureDetector(
+                  onTap: () async {
+                    final url = Uri.parse(document.url.replaceAll(' ', ''));
+                    if (await canLaunchUrl(url)) {
+                      await launchUrl(url, mode: LaunchMode.externalApplication);
+                    } else {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        SnackBar(
+                          content: Text('Could not open the document: ${document.url}'),
+                        ),
+                      );
+                    }
+                  },
+                  child: Card(
+                    elevation: 5,
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        const Icon(Icons.picture_as_pdf, size: 50, color: Colors.orange),
+                        const SizedBox(height: 10),
+                        Padding(
+                          padding: const EdgeInsets.symmetric(horizontal: 8.0),
+                          child: Text(
+                            document.title,
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(fontSize: 16),
                           ),
-                        );
-                      }
-                    },
+                        ),
+                      ],
+                    ),
                   ),
                 );
               },
