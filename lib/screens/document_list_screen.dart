@@ -7,6 +7,20 @@ class DocumentListScreen extends StatelessWidget {
 
   const DocumentListScreen({super.key, required this.category});
 
+  IconData _getIconForUrl(String url) {
+    if (category.name == 'Important Website Links') {
+      return Icons.link;
+    } else if (url.endsWith('.pdf')) {
+      return Icons.picture_as_pdf;
+    } else if (url.contains('docs.google.com/presentation')) {
+      return Icons.slideshow;
+    } else if (url.contains('drive.google.com/drive/folders')) {
+      return Icons.folder;
+    } else {
+      return Icons.article_outlined;
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -43,7 +57,7 @@ class DocumentListScreen extends StatelessWidget {
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        const Icon(Icons.picture_as_pdf, size: 50, color: Colors.orange),
+                        Icon(_getIconForUrl(document.url), size: 50, color: Colors.orange),
                         const SizedBox(height: 10),
                         Padding(
                           padding: const EdgeInsets.symmetric(horizontal: 8.0),
