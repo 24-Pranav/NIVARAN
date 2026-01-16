@@ -169,9 +169,13 @@
   {
     "category" : "BSL Div.  S&T Youtube Learning Series",
     "documents" : [
-      {"title" : "Presentation on EI TAN","url" : "https://youtu.be/7z9ZrmasUTI"},
-      {"title" : "Presentation on IPS Pre-Commissioning Checklist Filling","url" : "https://youtu.be/6PdG5VtS3NQ?si=QzgM7fY6ON0KQ524"},
-      {"title" : "Presentation on AFDAS","url" : "https://youtu.be/MtQYg88DJfY?si=B7fclU4sqW0RH4EF"}
+      {"title" : "Presentation on EI TAN","url" : "https://youtu.be/7z9ZrmasUTI","isLink": true},
+      {"title" : "Presentation on IPS Pre-Commissioning Checklist Filling","url" : "https://youtu.be/6PdG5VtS3NQ?si=QzgM7fY6ON0KQ524","isLink": true},
+      {"title" : "Presentation on AFDAS","url" : "https://youtu.be/MtQYg88DJfY?si=B7fclU4sqW0RH4EF","isLink": true},
+      {"title" : "DAC TAN","url" : "https://youtu.be/TCL5lHIvnoc?si=_KAqQakA_ZJIP5F2","isLink": true},
+      {"title" : "TAN - 25W VHF Radio set installation Guidelines", "url" : "https://youtu.be/qmYc_bN7ynQ?si=bRKGppWjqcqPRzFx","isLink": true},
+      {"title" : "AFDAS TAN","url" : "https://youtu.be/5I0eMJ_cQpA?si=zdYi0UvXQLGdhyTK","isLink": true},
+      {"title" : "PCCL of VoIP based TCCS", "url" : "https://youtu.be/KgJfVhCI6Z8?si=RfpzREPrPzBOMmVj","isLink": true}
     ]
   },
   {

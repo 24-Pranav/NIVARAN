@@ -58,7 +58,7 @@ class _SplashScreenState extends State<SplashScreen> {
               'Compiled by - Girish Patil',
               textAlign: TextAlign.center,
               style: TextStyle(
-                fontSize: 14,
+                fontSize: 18,
                 color: Colors.grey[600],
               ),
             ),
