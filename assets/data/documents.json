@@ -1,4 +1,3 @@
-
 [
   {
     "category": "Maintenance & Troubleshooting Manual",
@@ -86,8 +85,8 @@
   {
     "category": "Latest TAN",
     "documents": [
-      {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link"},
-      {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link"}
+      {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link", "isFolder": true},
+      {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link", "isFolder": true}
     ],
     "subCategories": [
       {
@@ -119,9 +118,8 @@
   },
   {
     "category": "Maintenance Handbooks",
-    "documents": []
-  },
-  "subCategories" : [
+    "documents": [],
+    "subCategories" : [
       {
         "category": "Signal",
         "documents": [
@@ -131,7 +129,7 @@
           {"title": "Siemens ACM 200", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/1_%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20_%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%B8%20ACM%20200.pdf"},
           {"title": "Maintenance Handbook on Integrated Power Supply for Signalling Ver.4.0", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/Maintenance%20Handbook%20on%20IPS%20for%20Signalling_July%202024.pdf"},
           {"title": "Handbook on Installation & Maintenance practices of Glued Joints for Track Circuits", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/S%26T%20Engineering/YearWise/%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F%20%E0%A4%B9%E0%A5%87%E0%A4%A4%E0%A5%81%20%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%82%E0%A4%A1%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%B0%E0%A5%87%E0%A4%B2%20%E0%A4%9C%E0%A5%89%E0%A4%87%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8.pdf"},
-          {"title": "Handbook on Installation, Maintenance & Troubleshooting of SIGMA Rail DAC Model BO23", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/2023-24/Handbook%20on%20SIGMA%20Rail%20DAC%20Model%20BO23.pdf"},
+          {"title": "Handbook on Installation, Maintenance & Troubleshooting of SIGMA Rail DAC Model BO23", "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/camtech/2023-24/Handbook%20on%20SIGMA%20Rail%20DAC%20Model%20BO23.pdf"}
         ]
       },
       {
@@ -145,6 +143,7 @@
         ]
       }
     ]
+  },
   {
     "category": "Important Website Links",
     "documents": [
