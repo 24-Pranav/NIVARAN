@@ -64,7 +64,8 @@ class DocumentItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () async {
-        if (document.url.isEmpty) {
+        final urlString = document.url;
+        if (urlString == null || urlString.isEmpty) {
           showDialog(
             context: context,
             builder: (BuildContext context) {
@@ -84,13 +85,13 @@ class DocumentItem extends StatelessWidget {
             },
           );
         } else {
-          final url = Uri.parse(document.url.replaceAll(' ', ''));
+          final url = Uri.parse(urlString.replaceAll(' ', ''));
           if (await canLaunchUrl(url)) {
             await launchUrl(url, mode: LaunchMode.externalApplication);
           } else {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
-                content: Text('Could not open the document: ${document.url}'),
+                content: Text('Could not open the document: $urlString'),
               ),
             );
           }
