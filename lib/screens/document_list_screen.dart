@@ -35,15 +35,35 @@ class DocumentListScreen extends StatelessWidget {
                 var document = category.documents[index];
                 return GestureDetector(
                   onTap: () async {
-                    final url = Uri.parse(document.url.replaceAll(' ', ''));
-                    if (await canLaunchUrl(url)) {
-                      await launchUrl(url, mode: LaunchMode.externalApplication);
-                    } else {
-                      ScaffoldMessenger.of(context).showSnackBar(
-                        SnackBar(
-                          content: Text('Could not open the document: ${document.url}'),
-                        ),
+                    if (document.url.isEmpty) {
+                      showDialog(
+                        context: context,
+                        builder: (BuildContext context) {
+                          return AlertDialog(
+                            title: const Text('Document Unavailable'),
+                            content: const Text('This document is not available at the moment. Please check back later.'),
+                            actions: <Widget>[
+                              TextButton(
+                                child: const Text('OK'),
+                                onPressed: () {
+                                  Navigator.of(context).pop();
+                                },
+                              ),
+                            ],
+                          );
+                        },
                       );
+                    } else {
+                      final url = Uri.parse(document.url.replaceAll(' ', ''));
+                      if (await canLaunchUrl(url)) {
+                        await launchUrl(url, mode: LaunchMode.externalApplication);
+                      } else {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text('Could not open the document: ${document.url}'),
+                          ),
+                        );
+                      }
                     }
                   },
                   child: Card(
