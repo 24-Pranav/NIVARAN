@@ -10,14 +10,8 @@ class DocumentListScreen extends StatelessWidget {
   IconData _getIconForUrl(String url) {
     if (category.name == 'Important Website Links') {
       return Icons.link;
-    } else if (url.endsWith('.pdf')) {
-      return Icons.picture_as_pdf;
-    } else if (url.contains('docs.google.com/presentation')) {
-      return Icons.slideshow;
-    } else if (url.contains('drive.google.com/drive/folders')) {
-      return Icons.folder;
     } else {
-      return Icons.article_outlined;
+      return Icons.picture_as_pdf;
     }
   }
 
