@@ -21,23 +21,23 @@
       {"title": "Introduction to Kavach – Working & Work Execution", "url": "https://docs.google.com/presentation/d/12imXaJwMX9WL96lriddVtQcJR4g3SgLl/edit?usp=sharing"},
       {"title": "IBH with MSDAC – Circuit Explanation & Failure Study", "url": "https://docs.google.com/presentation/d/1sZQzfOsKuk0hJkGdGt21JIx3dFVRvJpT/edit?usp=drive_link"},
       {"title": "Electronic Interlocking Part-II (I/O Cards & PM)", "url": "https://drive.google.com/file/d/1T8fSYb4dT8xaKSCPVeI41k-uuf_ycFL1/view?usp=drive_link"},
-      {"title": "Study of Integrated Power Supply, connection wiring diagram, operation, failure detection and case study. Working & Importance of PFC.", "url": ""},
-      {"title": "Cable laying practice, Policy of undertaking digging work in cable prone areas & detail procedure. Preventative maintenance.", "url": ""},
-      {"title": "Study of Automatic block signalling (Powersupply requirement and failure case studies)", "url": ""},
-      {"title": "Study of Siemens MSDAC , Maintenance, Fault finding and failure case study. Failure analysis", "url": ""},
-      {"title": "Study of Point operation internal circuits with function of realys. Precautions to be taken and failure case study.", "url": ""},
-      {"title": "ELD: Settings, Testing & Finding cable earth faults", "url": ""},
-      {"title": "Rolling blocks, SMMS & BDMS Application", "url": ""},
-      {"title": "Study of TWS Point, Maintenance, failure case study & failure analysis", "url": ""},
-      {"title": "Study of Electrical Lifting Barrier with Sliding boom. Maintenance and failure case study.", "url": ""},
-      {"title": "Study of Double line block instrument, line circuit working, maintenance.", "url": ""},
-      {"title": "Study of Signal LED aspects, Maintenance & failure case study. Analysis of CMS Abnormalities", "url": ""},
-      {"title": "Study of Efftronics data logger, working, Important Analog/Digital inputs, various fault logics & Daily exceptions reports.", "url": ""},
-      {"title": "Earthing arrangements of Signalling Installations as per TAN (Technical Advisory Note)", "url": ""},
-      {"title": "Study of Stand by fuse system, working and wiring diagram and ault finding", "url": ""},
-      {"title": "Study of fire alarm system, working and wiring diagram", "url": ""},
-      {"title": "Safety in train Operation and Weak areas", "url": ""},
-      {"title": "Signalling in RE. SODs Joint Inspections", "url": ""}
+      {"title": "Study of Integrated Power Supply, connection wiring diagram, operation, failure detection and case study. Working & Importance of PFC."},
+      {"title": "Cable laying practice, Policy of undertaking digging work in cable prone areas & detail procedure. Preventative maintenance."},
+      {"title": "Study of Automatic block signalling (Powersupply requirement and failure case studies)"},
+      {"title": "Study of Siemens MSDAC , Maintenance, Fault finding and failure case study. Failure analysis"},
+      {"title": "Study of Point operation internal circuits with function of realys. Precautions to be taken and failure case study."},
+      {"title": "ELD: Settings, Testing & Finding cable earth faults"},
+      {"title": "Rolling blocks, SMMS & BDMS Application"},
+      {"title": "Study of TWS Point, Maintenance, failure case study & failure analysis"},
+      {"title": "Study of Electrical Lifting Barrier with Sliding boom. Maintenance and failure case study."},
+      {"title": "Study of Double line block instrument, line circuit working, maintenance."},
+      {"title": "Study of Signal LED aspects, Maintenance & failure case study. Analysis of CMS Abnormalities"},
+      {"title": "Study of Efftronics data logger, working, Important Analog/Digital inputs, various fault logics & Daily exceptions reports."},
+      {"title": "Earthing arrangements of Signalling Installations as per TAN (Technical Advisory Note)"},
+      {"title": "Study of Stand by fuse system, working and wiring diagram and ault finding"},
+      {"title": "Study of fire alarm system, working and wiring diagram"},
+      {"title": "Safety in train Operation and Weak areas"},
+      {"title": "Signalling in RE. SODs Joint Inspections"}
     ]
   },
   {
@@ -121,7 +121,7 @@
           {"title": "Power Supply Arrangement", "url": "https://drive.google.com/file/d/19Ce0kYifswkHzX2yTK5vCdqCI-EMOmu5/view?usp=sharing"},
           {"title": "Guidelines and precautions of installation of Digital Axle Counter", "url": "https://drive.google.com/file/d/1OvT3dK3sbig4I_nRNuY_VSWDprvHcaSM/view?aring"},
           {"title": "CHECKLIST OF ELECTRONIC INTERLOCKING SYSTEM FOR TECHNICAL SYSTEM APPLICATION APPROVAL", "url": "https://drive.google.com/file/d/1DwfDPuMbE4LleccAtl1ypuZAFpjF47IB/view?usp=sharing"},
-          {"title": "Cyber Security Aspects of EI (TAN No. EI/TAN/Security, Ver. 1.0 dated 01.03.2023)", "url": ""}
+          {"title": "Cyber Security Aspects of EI (TAN No. EI/TAN/Security, Ver. 1.0 dated 01.03.2023)"}
         ]
       },
       {
