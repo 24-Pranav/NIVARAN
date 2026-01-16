@@ -108,10 +108,6 @@
   },
   {
     "category": "Latest TAN",
-    "documents": [
-      {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link", "isFolder": true},
-      {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link", "isFolder": true}
-    ],
     "subCategories": [
       {
         "category": "Signal",
@@ -130,6 +126,13 @@
       },
       {
         "category": "Telecom",
+        "subCategories" : [
+          {"documents": [
+            {"title": "Policy Letters", "url": "https://drive.google.com/drive/folders/1ndDrldBGAhnTax-Vz3tRRQSKoYiglEyT?usp=drive_link", "isFolder": true},
+            {"title": "Important Letters", "url": "https://drive.google.com/drive/folders/1JR7_yxGKopQ_zYo0JV222_Cn8qOlRYSt?usp=drive_link", "isFolder": true}
+          ]
+          }
+        ],
         "documents": [
           {"title": "Revised List of Minimum Essential Telecom Equipment’s to be kept in Accident Relief Trains (ART’s).", "url": "https://drive.google.com/file/d/1UJWQyue2pV77eh3sEQJvXQ8pnSd94R2J/view?usp=sharing"},
           {"title": "Comprehensive Security Guidelines for CCTV Network", "url": "https://drive.google.com/file/d/15zC_eCp41_LT726WMoNIkGe_D3cGasD4/view?usp=sharing"},
